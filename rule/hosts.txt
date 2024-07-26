@@ -1,4 +1,4 @@
-# Update time: 2024-07-26 08:08:15
+# Update time: 2024-07-26 20:03:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -11384,6 +11384,7 @@
 0.0.0.0 ad13.focalink.com
 0.0.0.0 adsp.haberturk.com
 0.0.0.0 ca.cqcounter.com
+0.0.0.0 setup-mydelivery-date6437-fedex.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 ads.simpli.fi
 0.0.0.0 ieurope1.fr
